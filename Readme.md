@@ -1,5 +1,13 @@
 ### About Me
 
+Study Area 酷學園 小雜工 / openSUSE Member / GNOME.Asia Committee Member
+
+喜歡自由軟體
+
+Blog:
+https://sakananote2.blogspot.com
+https://sakananote2english.blogspot.com
+
 ### 演講 與 簡報
 
 ### 2017
