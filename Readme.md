@@ -2,10 +2,12 @@
 
 Study Area 酷學園 小雜工 / openSUSE Member / GNOME.Asia Committee Member
 
-喜歡自由軟體
+喜歡社群自由無私的分享、熱愛自由軟體及 Linux 所帶來的方便性
 
-Blog:
+### Blog:
+
 https://sakananote2.blogspot.com
+
 https://sakananote2english.blogspot.com
 
 ### 演講 與 簡報
