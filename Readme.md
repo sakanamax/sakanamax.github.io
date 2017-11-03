@@ -21,3 +21,28 @@
 | 2017/3/30|Docker 容器介紹與實作|交通大學|國立交通大學網路管理實務課程|https://goo.gl/CzcY4J
 | 2017/3/24|開源軟體與社群 - 參與國際社群經驗談|成功大學|自由軟體與社群發展課程|https://goo.gl/3JUENa
 | 2017/1/15|使用 Ansible 快速佈署 nagios|DOIT|openSUSE x SA|https://goo.gl/ZY4JN1
+
+### 2016
+
+| 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+2016/12/21|開源軟體與社群 - 參與國際社群經驗談|崑山科技大學||https://goo.gl/iO3Irl
+2016/11/23|配置管理工具大亂鬥-Ansible|DevOps Taiwan|DevOps Taiwan Meet up|https://goo.gl/YjhJCY
+2016/11/19|Docker Global Mentor Week 2016 - Taipei|Gandi.net|2016 Docker Global Mentor Week|https://goo.gl/s1SI9f
+2016/11/14|SUSE Docker workshop|Bestcom||https://goo.gl/gc2Xjg
+2016/10/22|Docker and openSUSE workshop 101|Mozilla Space Taiwan|openSUSE x SA|https://goo.gl/dhCZUD
+2016/10/21|淺談 Ansible 自動化管理工具|資策會數位教育研究所|DevOps Taipei MeetUp|https://goo.gl/D7Mp48
+2016/10/14|開源軟體與社群 - 參與國際社群經驗談|成功大學|自由軟體與社群發展課程|https://goo.gl/wbXnaU
+2016/10/2|Ansible and openSUSE workshop|印尼|openSUSE.Asia summit|https://goo.gl/epKzDl
+2016/9/13|Docker and openSUSE workshop 101|交通大學|openSUSE x SA|http://goo.gl/YDL2sw
+2016/9/10|利用 Jupyter + Ansible 快速佈署 Spark|中研院|HadoopCon 2016|http://goo.gl/dns2Aw
+2016/8/19|Hands on - Docker image management and Dockerfile|資策會 民生科技服務大樓|DevOps Taipei MeetUp|https://goo.gl/u92fzS
+2016/7/16|淺談 Ansible 自動化管理工具|交通大學|SA群英會|https://goo.gl/RYyQU4
+2016/5/16|淺談 Ansible 自動化管理工具|交通大學|SA@新竹|https://goo.gl/SKJYOh
+2016/4/20|Getting Started with Apache Spark|交通大學|Spark 新竹|https://goo.gl/9fYrn0
+2016/2/27|以推廣者角度參與國際社群經驗談|中研院|SITCON 2016|https://goo.gl/d7mPS0
+2016/2/21|淺談 Ansible 自動化管理工具|Mozilla Space Taiwan|SA@Taipei|https://goo.gl/1DWUqt
+2016/1/28|淺談 Ansible 自動化管理工具|Spark Taiwan|Spark Taiwan|https://goo.gl/3Gw5Y3
+2016/1/13|Introduction to Spark Install|交通大學|Spark 新竹|https://goo.gl/Hj7mL6
+
+
