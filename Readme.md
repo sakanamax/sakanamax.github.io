@@ -16,6 +16,7 @@ https://sakananote2english.blogspot.com
 
 | 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2017/12/17 | openSUSE Taiwan Year End Party|openSUSE Taiwan|https://goo.gl/2RTrV1|
 | 2017/11/19 | Docker and openSUSE workshop 101|巨匠電腦東區認証|openSUSE x docker.Taipei|https://goo.gl/Jui4oW|
 | 2017/10/28 | Ansible 自動化組態工具 workshop with openSUSE 101 | Mozilla Space | openSUSE x SA | https://goo.gl/acuUo1 | 
 | 2017/10/22|openSUSE.Asia Summit 2018|Chofu - Tokyo|openSUSE.Asia summit|https://goo.gl/Y7xTjj|
