@@ -10,11 +10,11 @@ Study Area 酷學園 小雜工 / openSUSE Member / GNOME.Asia Committee Member
 
 中文
 
-https://sakananote2.blogspot.com
+[https://sakananote2.blogspot.com](https://sakananote2.blogspot.com)
 
 English
 
-https://sakananote2english.blogspot.com
+[https://sakananote2english.blogspot.com](https://sakananote2english.blogspot.com)
 
 ### 演講 與 簡報
 
