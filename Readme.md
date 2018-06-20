@@ -29,6 +29,7 @@ English
 
 | 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2018/6/23 | openSUSE Leap 15 安裝以及調整分享|Mozilla Space Taiwan|openSUSE.Taiwan | http://bit.ly/sakana20180623|
 | 2018/5/27 | Ansible 自動化組態工具 workshop with openSUSE 101|Mozilla Space Taiwan|openSUSE x SA | https://bit.ly/2KNaizj|
 | 2018/5/26 | Monitoring Tools 大亂鬥 - Nagios|松江101國際會議中心|DevOps Taiwan - Monitoring Tools 大亂鬥 | https://bit.ly/2KVEit1|
 | 2018/5/14 | Ansible with DigitalOcean|交通大學|DigitalOcean HsinChun Meetup | https://bit.ly/2wGsgRI|
