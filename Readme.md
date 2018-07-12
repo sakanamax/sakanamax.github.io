@@ -40,7 +40,7 @@ English
 
 #### 2017
 
-| 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
 | 2017/12/17 | openSUSE Taiwan Year End Party| Mozilla Space |openSUSE Taiwan|https://goo.gl/2RTrV1|
 | 2017/11/19 | Docker and openSUSE workshop 101|巨匠電腦東區認証|openSUSE x docker.Taipei|https://goo.gl/Jui4oW|
@@ -62,7 +62,7 @@ English
 
 #### 2016
 
-| 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
 | 2016/12/21|開源軟體與社群 - 參與國際社群經驗談|崑山科技大學||https://goo.gl/iO3Irl
 | 2016/11/23|配置管理工具大亂鬥-Ansible|DevOps Taiwan|DevOps Taiwan Meet up|https://goo.gl/YjhJCY
@@ -85,7 +85,7 @@ English
 
 #### 2015
 
-| 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
 | 2015/12/31|淺談自由軟體社群，雲端服務與程式應用|真理大學||https://goo.gl/0s4Zh1
 | 2015/12/26|淺談 Ansible 自動化管理工具|成功大學|SA@Tainan|https://goo.gl/9g5u1l
