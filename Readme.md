@@ -2,7 +2,7 @@
 
 ![avatar](https://avatars2.githubusercontent.com/u/5405809?s=400&u=7a788718da51f3962aeba3b384f67ff31e6acdbb&v=4)
 
-* Working at [NCHC](http://www.nchc.org.tw/tw/)
+* Working at [National Center for High-performance Computing (NCHC)](http://www.nchc.org.tw/tw/)
 * Study Area 酷學園 & 鳥哥私房菜 小雜工 
 * openSUSE Member / openSUSE.Asia Committee Member
 * [GNOME.Asia Committee Member](https://wiki.gnome.org/GnomeAsia/CommitteeMembers)
@@ -15,7 +15,7 @@
 
 ### Blog:
 
-中文
+中文 Chinese
 
 [https://sakananote2.blogspot.com](https://sakananote2.blogspot.com)
 
@@ -23,11 +23,11 @@ English
 
 [https://sakananote2english.blogspot.com](https://sakananote2english.blogspot.com)
 
-### 演講 與 簡報
+### 演講 與 簡報 Speech and Slide
 
 #### 2018
 
-| 日期       | 演講題目                                          | 地點          | 備註          | 簡報                  |
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
 | 2018/6/23 | openSUSE Leap 15 安裝以及調整分享|SUSE Lab Taipei|openSUSE.Taiwan | http://bit.ly/sakana20180623|
 | 2018/6/23 | openSUSE Leap 15 Release Party|SUSE Lab Taipei|openSUSE.Taiwan | http://bit.ly/sakana20180623-2|
