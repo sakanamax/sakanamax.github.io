@@ -29,6 +29,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2018/7/9  | Docker微虛擬技術入門與實作|桃園仁和國小|桃園資訊組長研習 | https://bit.ly/2ypWx8j|
 | 2018/6/23 | openSUSE Leap 15 安裝以及調整分享|SUSE Lab Taipei|openSUSE.Taiwan | http://bit.ly/sakana20180623|
 | 2018/6/23 | openSUSE Leap 15 Release Party|SUSE Lab Taipei|openSUSE.Taiwan | http://bit.ly/sakana20180623-2|
 | 2018/5/27 | Ansible 自動化組態工具 workshop with openSUSE 101|Mozilla Space Taiwan|openSUSE x SA | https://bit.ly/2KNaizj|
