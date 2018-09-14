@@ -5,7 +5,7 @@
 * Working at [National Center for High-performance Computing (NCHC)](http://www.nchc.org.tw/tw/)
 * Study Area 酷學園 & 鳥哥私房菜 小雜工 
 * openSUSE Member / openSUSE.Asia Committee Member
-* [GNOME.Asia Committee Member](https://wiki.gnome.org/GnomeAsia/CommitteeMembers)
+* [GNOME.Asia Committee Advisors](https://wiki.gnome.org/GnomeAsia/CommitteeMembers)
 
 喜歡社群自由無私的分享、熱愛自由軟體及 Linux 所帶來的方便性
 
