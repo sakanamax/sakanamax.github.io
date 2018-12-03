@@ -29,6 +29,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2018/12/6 | 開源軟體與社群 - 參與國際社群經驗談|成功大學|自由軟體與社群發展課程| http://bit.ly/sakana20181206|
 | 2018/9/15  | NextCloud 簡單分享|Gandi.net| openSUSE x SA | http://bit.ly/sakana20180915|
 | 2018/8/12  | 開源軟體與社群 - 參與國際社群經驗談|台灣科技大學| GNOME.Asia | http://bit.ly/sakana20180812|
 | 2018/8/11  | Ansible and openSUSE workshop|台灣科技大學| openSUSE.Asia | http://bit.ly/sakana20180811|
