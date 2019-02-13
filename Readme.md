@@ -25,6 +25,12 @@ English
 
 ### 演講 與 簡報 Speech and Slide
 
+#### 2019
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2019/2/16 | openSUSE Kubic 簡單分享 | 天瓏書局 Coding Space |openSUSE.Taiwan x CNTUG|http://bit.ly/sakana20190216|
+
 #### 2018
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
