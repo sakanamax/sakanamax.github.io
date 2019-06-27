@@ -28,6 +28,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2019/6/29 | openSUSE Taiwan Leap 15.1 Release Party | Gandi.net |openSUSE.Taiwan|http://bit.ly/sakana20190629|
 | 2019/6/28 | openSUSE Kubic 簡單分享 | Microsoft Taiwan |openSUSE.Taiwan x CNTUG|http://bit.ly/sakana20190628|
 | 2019/5/18 | Ansible and openSUSE workshop 101 | trainocate |openSUSE x SA|http://bit.ly/sakana20190518|
 | 2019/5/15 | Ansible with Azure 介紹 | M Space 共享空間 |Azure Taiwan Meetup #18|http://bit.ly/sakana20190515|
