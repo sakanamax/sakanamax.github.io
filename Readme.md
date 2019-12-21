@@ -28,6 +28,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2019/12/22 | openSUSE Taiwan Year End Party| SUSE Lab Taipei |openSUSE Taiwan|http://bit.ly/sakana20191222|
 | 2019/10/5 | We are openSUSE Asia Community - Introduce TSP application | Bali - Indonesia |openSUSE.Asia Summit|http://bit.ly/sakana2019100502|
 | 2019/10/5 | openSUSE Kubic - The easy and fast way to deploy kubernetes with openSUSE | Bali - Indonesia |openSUSE.Asia Summit|http://bit.ly/sakana2019100501|
 | 2019/9/28 | 淺談三大雲端平臺入門  and openSUSE | Gandi.net |openSUSE.Taiwan|http://bit.ly/sakana20190928|
