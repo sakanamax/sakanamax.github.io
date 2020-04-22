@@ -1,0 +1,23 @@
+*** General ***
+
+# Edit by Max 2020/2/1
+
+# 顯示在網頁上維護名稱還有郵件
+owner    = Max
+contact  = sakana@study-area.org
+
+# 先註解起來看有沒有影響
+#mailhost = smtp.sendgrid.net:587
+
+
+# NOTE: do not put the Image Cache below cgi-bin
+# since all files under cgi-bin will be executed ... this is not
+# good for images.
+cgiurl   = http://localhost/smokeping.cgi
+# specify this to get syslog logging
+syslogfacility = local0
+# each probe is now run in its own process
+# disable this to revert to the old behaviour
+# concurrentprobes = no
+
+@include /config/pathnames
