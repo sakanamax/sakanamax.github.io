@@ -1,0 +1,33 @@
+*** Alerts ***
+
+# Edit by Max 2020/2/15
+
+# 設定要收到警報信件的 e-mail, 兩個以上用 , 分隔
+to = sakana@study-area.org
+# 發信的 e-mail
+from = sakana@study-area.org
+
++someloss
+type = loss
+# in percent
+pattern = >0%,*12*,>0%,*12*,>0%
+comment = loss 3 times  in a row
+
++lossdetect
+type = loss
+# in percent
+pattern = ==0%,==0%,==0%,==0%,>20%,>20%,>20%
+comment = suddenly there is packet loss
+
+
++rttbadcht
+type = rtt
+# in milliseconds
+pattern = >50,>50
+comment = CHT more than 50 ms
+
++ rttbadtfn
+type = rtt
+# in milliseconds
+pattern = >100,>100
+comment = TFN more than 100 ms

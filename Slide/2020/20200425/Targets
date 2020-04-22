@@ -1,0 +1,62 @@
+*** Targets ***
+
+# Edit by Max 2020/2/15
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Welcome to the SmokePing website of WORKS Company. \
+         Here you will learn all about the latency of our network.
+
+
++ InternetSites
+menu = Internet Sites
+title = Internet Sites
+
+++ Facebook
+menu = Facebook
+title = Facebook
+host = facebook.com
+
+++ Youtube
+menu = YouTube
+title = YouTube
+host = youtube.com
+
+++ linuxserverio
+menu = linuxserver.io
+title = linuxserver.io
+host = linuxserver.io
+
+
++ DNS
+menu = DNS
+title = DNS
+
+++ GoogleDNS
+menu = GoogleDNS
+title = Google DNS
+host = /DNS/GoogleDNS/GoogleDNS1 /DNS/GoogleDNS/GoogleDNS2
+
++++ GoogleDNS1
+menu = Google DNS 1
+title = Google DNS 8.8.8.8
+host = 8.8.8.8
+alerts = rttbadcht,lossdetect
+
++++ GoogleDNS2
+menu = Google DNS 2
+title = Google DNS 8.8.4.4
+host = 8.8.4.4
+alerts = rttbadcht,lossdetect
+
+++ CloudflareDNS1
+menu = Cloudflare DNS 1
+title = Cloudflare DNS 1.1.1.1
+host = 1.1.1.1
+
+++ CloudflareDNS2
+menu = Cloudflare DNS 2
+title = Cloudflare DNS 1.0.0.1
+host = 1.0.0.1
