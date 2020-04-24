@@ -24,6 +24,13 @@ English
 
 ### 演講 與 簡報 Speech and Slide
 
+#### 2020
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2020/4/25 | 使用容器 搭配 smokeping 監測網路狀態  in Azure| Online |Global Azure 2020 https://azuretw.dev/events/1|http://bit.ly/sakana20200425|
+
+
 #### 2019
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
