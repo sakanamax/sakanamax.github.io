@@ -28,8 +28,8 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2020/9/22 | 使用自動化工具 Ansible 在 Azure 中佈署虛擬機器| Online |巨匠 Live 講堂 https://www.pcschool.com.tw/activity/109/10909-live9m-Ansible/index.aspx|http://bit.ly/sakana20200922|
 | 2020/4/25 | 使用容器 搭配 smokeping 監測網路狀態  in Azure| Online |Global Azure 2020 https://azuretw.dev/events/1|http://bit.ly/sakana20200425|
-
 
 #### 2019
 
