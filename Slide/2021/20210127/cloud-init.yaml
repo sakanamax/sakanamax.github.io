@@ -9,3 +9,4 @@ write_files:
         Hello world from Virtual Machine Scale Set !
 runcmd:
   - service nginx restart
+  
