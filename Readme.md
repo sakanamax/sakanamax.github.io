@@ -22,6 +22,9 @@ English
 
 [https://sakananote2english.blogspot.com](https://sakananote2english.blogspot.com)
 
+### 書籍閱讀進度
+
+https://github.com/sakanamax/sakanamax.github.io/tree/master/Reading
 ### 演講 與 簡報 Speech and Slide
 
 #### 2021
