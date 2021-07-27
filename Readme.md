@@ -31,8 +31,8 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2021/8/1 | 雲端平臺維運經驗淺談| Online | COSCUP https://coscup.org/2021/zh-TW/session/ASN8ZL | http://bit.ly/sakana20210801 |
 | 2021/1/27 | Azure 虛擬機器擴展集VMSS介紹與實作| Online |巨匠 Live 講堂 https://www.pcschool.com.tw/activity/110/11001-live1m-Azure/index.aspx? | http://bit.ly/sakana20210127 |
-
 
 #### 2020
 
