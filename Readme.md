@@ -27,6 +27,12 @@ English
 [閱讀進度](https://github.com/sakanamax/sakanamax.github.io/tree/master/Reading)
 ### 演講 與 簡報 Speech and Slide
 
+#### 2022
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2022/4/1 | Google Cloud Platform AMA 社群問答 | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-cloud-platform-ama-she-qun-wen-da/ |  |
+
 #### 2021
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
