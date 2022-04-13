@@ -31,7 +31,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
-| 2022/4/1 | Google Cloud Platform AMA 社群問答 | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-cloud-platform-ama-she-qun-wen-da/ |  |
+| 2022/4/1 | Google Cloud Platform AMA 社群問答 | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-cloud-platform-ama-she-qun-wen-da/ | https://bit.ly/sakana20220413 |
 
 #### 2021
 
