@@ -31,7 +31,10 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
-| 2022/4/1 | Google Cloud Platform AMA 社群問答 | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-cloud-platform-ama-she-qun-wen-da/ | https://bit.ly/sakana20220413 |
+| 2022/4/22 | Google Cloud Platform AMA 社群問答 | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-cloud-platform-ama-she-qun-wen-da-1/ |  |
+| 2022/4/20 | Linux 圆桌派 Linux 未来如何发展？ | Online | SUSE 北京 https://mp.weixin.qq.com/s/P7-1P3gqf8U7YrvN1YcSBg |  |
+| 2022/4/13 | GCP雲端平台入門 | Online | GDG Cloud Taipei https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-x-study-area-gcp-chu-xin-zhe-xi-lie-gcp-yun-duan-ping-tai-ru-men-101/ | https://bit.ly/sakana20220413 |
+| 2022/4/1 | Google Cloud Platform AMA 社群問答 | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-cloud-platform-ama-she-qun-wen-da/ |  |
 
 #### 2021
 
