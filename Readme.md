@@ -2,15 +2,20 @@
 
 ![avatar](https://avatars2.githubusercontent.com/u/5405809?s=400&u=7a788718da51f3962aeba3b384f67ff31e6acdbb&v=4)
 
-* Study Area 酷學園 & 鳥哥私房菜 小雜工 
-* openSUSE Member / openSUSE.Asia Committee Member
-* [GNOME.Asia Committee Advisor](https://wiki.gnome.org/GnomeAsia/CommitteeMembers)
+社群經驗
+* Study Area 酷學園 & 鳥哥私房菜 /  志工 （ 2003 - Present ）
+* openSUSE Member / openSUSE.Asia Committee Member ( November 2012 - Present )
+* VMware / [vExpert](https://vexpert.vmware.com/directory/1712) , VMUG Leader ( May 2018 - Present )
+* [AWS Users Group Taiwan](https://www.facebook.com/groups/awsugtw) / 志工 ( April 201 - Present )
+* [GDG Cloud Taipei](https://www.facebook.com/groups/GCPUG.TW) / 志工 ( March 2022 - Present )
+* GNOME / Foundation Member, [GNOME.Asia Committee Advisor](https://wiki.gnome.org/GnomeAsia/CommitteeMembers) (March 2011 - Present)
+* Docker / Community Leader ( October 2016 - 2020 )
 
 喜歡社群自由無私的分享、熱愛自由軟體及 Linux 所帶來的方便性
 
 [Linkedin](https://www.linkedin.com/in/sakanamax/)
 
-[vExpert](https://vexpert.vmware.com/directory/1712)
+
 
 ### Blog:
 
