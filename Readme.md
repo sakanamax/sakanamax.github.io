@@ -9,7 +9,7 @@
 * [AWS Users Group Taiwan](https://www.facebook.com/groups/awsugtw) / 志工 ( April 201 - Present )
 * [GDG Cloud Taipei](https://www.facebook.com/groups/GCPUG.TW) / 志工 ( March 2022 - Present )
 * GNOME / Foundation Member, [GNOME.Asia Committee Advisor](https://wiki.gnome.org/GnomeAsia/CommitteeMembers) (March 2011 - Present)
-* Docker / Community Leader ( October 2016 - 2020 )
+* Docker / Community Leader ( October 2016 - 2021 )
 
 喜歡社群自由無私的分享、熱愛自由軟體及 Linux 所帶來的方便性
 
