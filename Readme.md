@@ -37,6 +37,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2022/10/29 | Zabbix server 6.0 with container in GCP | 東海大學 | DevFest Taichung 2022 https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2022/ | https://bit.ly/sakana20221029 |
 | 2022/9/14 | Zabbix server 6.0 with container in GCP | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-x-study-area-zabbix-server-60-with-container-in-gcp/ | https://bit.ly/sakana20220914 |
 | 2022/7/30 | 開源軟體與社群 - 參與國際社群經驗談 | 台灣科技大學 | COSCUP 2022 https://coscup.org/2022/zh-TW/session/99GBZC | https://bit.ly/sakana20220730-2 |
 | 2022/7/30 | GCP 初心者系列 - GCP 雲端平台入門 101 | 台灣科技大學 | COSCUP 2022 https://coscup.org/2022/zh-TW/session/NMSVGS | https://bit.ly/sakana20220730-1 |
