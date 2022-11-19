@@ -37,6 +37,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2022/11/19 | GCP 初心者系列 - GCP 雲端平台入門 101 | 桃園虎頭山創新園區 | DevFest Taoyuan https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-devfest-2022-taoyuan/ | https://bit.ly/sakana20221119 |
 | 2022/11/15 | GCP 初心者系列 - GCP 雲端平台入門 101 | Online | GDSC https://gdsc.community.dev/events/details/developer-student-clubs-tamkang-university-presents-gdsc-x-gdg-cloud-taipei-google-cloud-101yun-duan-ji-chu-xi-lie-ke-gcp-chu-xin-zhe-xi-lie-gcp-yun-duan-ping-tai-ru-men-101-2022-11-15/ | https://bit.ly/sakana20221115 |
 | 2022/10/29 | Zabbix server 6.0 with container in GCP | 東海大學 | DevFest Taichung 2022 https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2022/ | https://bit.ly/sakana20221029 |
 | 2022/9/14 | Zabbix server 6.0 with container in GCP | Online | GDG Taipei https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-x-study-area-zabbix-server-60-with-container-in-gcp/ | https://bit.ly/sakana20220914 |
