@@ -33,6 +33,12 @@ English
 [閱讀進度](https://github.com/sakanamax/sakanamax.github.io/tree/master/Reading)
 ### 演講 與 簡報 Speech and Slide
 
+#### 2023
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2023/3/28 | GCP 初心者系列 - GCP 雲端平台入門 101 | Online | GDSC x GDG Cloud Taipei https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdsc-tku-x-gdg-cloud-taipei-gcp-chu-xin-zhe-xi-lie-gcp-yun-duan-ping-tai-ru-men-101/ | https://bit.ly/sakana20230328 |
+
 #### 2022
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
