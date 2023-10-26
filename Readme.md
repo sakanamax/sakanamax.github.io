@@ -37,6 +37,8 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2023/10/28 | GCP 費用優化分享 | Monospace 共同工作空間 | GDG Taichung https://gdg.community.dev/events/details/google-gdg-taichung-presents-gdg-taichung-10yue-fen-xiao-ju-tech-talk/ | https://bit.ly/sakana20231028 |
+| 2023/10/21 | Using openSUSE in the Public Cloud | 重慶郵電大學 | openSUSE.Asia summit https://events.opensuse.org/conferences/oSAS23/program/proposals/4283 | https://bit.ly/sakana20231021 |
 | 2023/9/20 | Google Cloud Next 2023 | VMware Taiwan | VMUG x GDG Cloud Taipei https://my.vmug.com/s/community-event?id=a1Y4x000002l7FbEAI | https://bit.ly/sakana20230920 |
 | 2023/7/30 | GCP 費用優化分享 | 台灣科技大學 | COSCUP 2023 https://coscup.org/2023/zh-TW/session/X7SLCR | https://bit.ly/sakana20230730 |
 | 2023/3/28 | GCP 初心者系列 - GCP 雲端平台入門 101 | Online | GDSC x GDG Cloud Taipei https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdsc-tku-x-gdg-cloud-taipei-gcp-chu-xin-zhe-xi-lie-gcp-yun-duan-ping-tai-ru-men-101/ | https://bit.ly/sakana20230328 |
