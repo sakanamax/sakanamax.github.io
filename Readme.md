@@ -37,6 +37,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2023/12/9 | GKE Enterprise 介紹 | 逢甲大學學思園 | DevFest Taichung 2023 https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2023/ | https://bit.ly/sakana20231209 |
 | 2023/10/28 | GCP 費用優化分享 | Monospace 共同工作空間 | GDG Taichung https://gdg.community.dev/events/details/google-gdg-taichung-presents-gdg-taichung-10yue-fen-xiao-ju-tech-talk/ | https://bit.ly/sakana20231028 |
 | 2023/10/21 | Using openSUSE in the Public Cloud | 重慶郵電大學 | openSUSE.Asia summit https://events.opensuse.org/conferences/oSAS23/program/proposals/4283 | https://bit.ly/sakana20231021 |
 | 2023/9/20 | Google Cloud Next 2023 | VMware Taiwan | VMUG x GDG Cloud Taipei https://my.vmug.com/s/community-event?id=a1Y4x000002l7FbEAI | https://bit.ly/sakana20230920 |
