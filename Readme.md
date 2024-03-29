@@ -33,6 +33,13 @@ English
 [閱讀進度](https://github.com/sakanamax/sakanamax.github.io/tree/master/Reading)
 ### 演講 與 簡報 Speech and Slide
 
+#### 2024
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2024/3/30 | Duet AI for Cloud Architects: AI 如何幫助雲端架構師提高工作效率 | 集思台中文心會議中心 | GDG Taichung https://gdg.community.dev/events/details/google-gdg-taichung-presents-build-with-ai-2024-taichung-3/ | https://bit.ly/sakana20240330 |
+
+
 #### 2023
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
