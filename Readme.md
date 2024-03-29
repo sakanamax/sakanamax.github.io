@@ -5,7 +5,7 @@
 社群經驗
 * Study Area 酷學園 & 鳥哥私房菜 /  志工 （ 2003 - Present ）
 * openSUSE Member / openSUSE.Asia Committee Member ( November 2012 - Present )
-* VMware / [vExpert](https://vexpert.vmware.com/directory/1712) , VMUG Leader ( May 2018 - Present )
+* VMware / [vExpert](https://vexpert.vmware.com/directory/1712) , VMUG Leader ( May 2018 - 2024 )
 * [AWS Users Group Taiwan](https://www.facebook.com/groups/awsugtw) / 志工 ( April 201 - Present )
 * [GDG Cloud Taipei](https://www.facebook.com/groups/GCPUG.TW) / 志工 ( March 2022 - Present )
 * [Google Developers Experts](https://developers.google.com/community/experts/directory) / GDE - Google Cloud Platform ( March 2022 - Present ) 
