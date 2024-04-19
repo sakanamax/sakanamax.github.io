@@ -37,6 +37,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2024/4/20 | Gemini Code Assist for Cloud Architects | 天瓏書局 | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-taipei-2024-gong-zuo-fang-geminiduo-mo-tai-ragying-yong-gemini-code-assist-ying-yong-jie-shao/ | https://bit.ly/sakana20240420 |
 | 2024/3/30 | Duet AI for Cloud Architects: AI 如何幫助雲端架構師提高工作效率 | 集思台中文心會議中心 | GDG Taichung https://gdg.community.dev/events/details/google-gdg-taichung-presents-build-with-ai-2024-taichung-3/ | https://bit.ly/sakana20240330 |
 
 
