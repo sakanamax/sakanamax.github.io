@@ -37,7 +37,8 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
-| 2024/11/3 | NeuVector quick install with HELM and GKE | Azabudai Hills Mori JP Tower, | openSUSE.Asis summit 2024 https://events.opensuse.org/conferences/oSAS24 | https://bit.ly/sakana20241103 |
+| 2024/11/16 | GCP 初心者系列 - GCP 雲端平台入門 101 | N 型未來學院 | DevFest Changhua 2024 https://gdg.community.dev/events/details/google-gdg-changhua-presents-devfest-changhua-2024/ | https://bit.ly/sakana20241116 |
+| 2024/11/3 | NeuVector quick install with HELM and GKE | Azabudai Hills Mori JP Tower | openSUSE.Asis summit 2024 https://events.opensuse.org/conferences/oSAS24 | https://bit.ly/sakana20241103 |
 | 2024/10/12 | Gemini Code Assist for Cloud Architects | N 型未來學院 | GDG Changhua https://gdg.community.dev/events/details/google-gdg-changhua-presents-10yue-chatbotji-shu-ji-googleji-shu-lian-he-xiao-ju/ | https://bit.ly/sakana20241012 |
 | 2024/8/3 | Gemini Code Assist for Cloud Architects | 台灣科技大學 | COSCUP 2024 https://coscup.org/2024/zh-TW/session/7SGU3D | https://bit.ly/sakana20240803 |
 | 2024/4/20 | Gemini Code Assist for Cloud Architects | 天瓏書局 | GDG Taipei https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-taipei-2024-gong-zuo-fang-geminiduo-mo-tai-ragying-yong-gemini-code-assist-ying-yong-jie-shao/ | https://bit.ly/sakana20240420 |
