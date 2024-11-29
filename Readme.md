@@ -37,6 +37,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2024/11/30 | Gemini Code Assist for Cloud Architects | 國立臺灣大學博雅教學館 | DevFest Taipei 2024 https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2024/ | https://bit.ly/sakana20241130 |
 | 2024/11/16 | GCP 初心者系列 - GCP 雲端平台入門 101 | N 型未來學院 | DevFest Changhua 2024 https://gdg.community.dev/events/details/google-gdg-changhua-presents-devfest-changhua-2024/ | https://bit.ly/sakana20241116 |
 | 2024/11/3 | NeuVector quick install with HELM and GKE | Azabudai Hills Mori JP Tower | openSUSE.Asis summit 2024 https://events.opensuse.org/conferences/oSAS24 | https://bit.ly/sakana20241103 |
 | 2024/10/12 | Gemini Code Assist for Cloud Architects | N 型未來學院 | GDG Changhua https://gdg.community.dev/events/details/google-gdg-changhua-presents-10yue-chatbotji-shu-ji-googleji-shu-lian-he-xiao-ju/ | https://bit.ly/sakana20241012 |
