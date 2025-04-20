@@ -8,6 +8,7 @@
 * [AWS Users Group Taiwan](https://www.facebook.com/groups/awsugtw) / 志工 ( April 2021 - Present )
 * [Google Developers Experts](https://developers.google.com/community/experts/directory) / GDE - Google Cloud Platform ( March 2022 - Present )
 * [GDG Cloud Taipei](https://www.facebook.com/groups/GCPUG.TW) / 志工 ( March 2022 - Present )
+* [DevOps Taiwan](https://devopstw.club/) / 志工 ( 2015 - Present )
 * [GNOME.Asia Committee Advisor](https://wiki.gnome.org/GnomeAsia/CommitteeMembers) (March 2011 - Present)
 * VMware / [vExpert](https://vexpert.vmware.com/directory/1712) , VMUG Leader ( May 2018 - 2024 )
 * Docker / Community Leader ( October 2016 - 2021 )
