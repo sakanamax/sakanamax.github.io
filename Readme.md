@@ -33,6 +33,12 @@ English
 
 ### 演講 與 簡報 Speech and Slide
 
+#### 2025
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2025/10/15 | Gemini CLI 介紹與上手 | 臺北醫學大學 | GDGoC TMU https://gdg.community.dev/events/details/google-gdg-on-campus-taipei-medical-university-taipei-taiwan-presents-gemini-cli-jie-shao-yu-shang-shou/ | https://bit.ly/sakana20251015 |
+
 #### 2024
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
