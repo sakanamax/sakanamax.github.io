@@ -37,6 +37,8 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2025/11/08 | Gemini CLI 介紹與上手 | 逢甲大學 | DevFest Taichung 2025 https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2025/ | https://bit.ly/sakana20251108 |
+| 2025/11/01 | Gemini CLI 介紹與上手 | 虎頭山創新園區 | Devfest Taoyuan 2025 https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-devfest-taoyuan-2025/ | https://bit.ly/sakana20251101 |
 | 2025/10/15 | Gemini CLI 介紹與上手 | 臺北醫學大學 | GDGoC TMU https://gdg.community.dev/events/details/google-gdg-on-campus-taipei-medical-university-taipei-taiwan-presents-gemini-cli-jie-shao-yu-shang-shou/ | https://bit.ly/sakana20251015 |
 
 #### 2024
