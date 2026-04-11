@@ -33,6 +33,13 @@ English
 
 ### 演講 與 簡報 Speech and Slide
 
+#### 2026
+
+| 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
+| -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2026/4/25 | Gemini CLI 介紹與上手 | 高賓閣 | Build with AI ChangHua https://gdg.community.dev/events/details/google-gdg-changhua-presents-build-with-ai-2026-zhang-hua-chang-si-yue-xiao-ju/ | https://bit.ly/sakana20260425 |
+
+
 #### 2025
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
