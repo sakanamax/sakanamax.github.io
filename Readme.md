@@ -37,6 +37,7 @@ English
 
 | 日期  Date     | 演講題目   Topic       | 地點  Place     | 備註   Notes  | 簡報   Slide               |
 | -----------| --------------------------------------------------| --------------| --------------| --------------------- |
+| 2026/11/22 | 看得見的 Agent，摸得著的雲端 | 逢甲大學 | DevFest Taichung 2026 https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2026/ | https://bit.ly/sakana20261122 |
 | 2026/5/20 | 雲端架構師如何免 SQL 掌握 BigQuery 費用分析與視覺化 | DCard | Taipei dbt Meetup #46 https://www.meetup.com/taipei-dbt-meetup/events/314192127/ | https://bit.ly/sakana20260520 |
 | 2026/4/25 | Gemini CLI 介紹與上手 | 高賓閣 | Build with AI ChangHua https://gdg.community.dev/events/details/google-gdg-changhua-presents-build-with-ai-2026-zhang-hua-chang-si-yue-xiao-ju/ | https://bit.ly/sakana20260425 |
 
